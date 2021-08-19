@@ -1,0 +1,19 @@
+// salvar o códgio demontrado em aula
+
+
+alunos = ["Enzo","Valentina","Joana","Marcio"] 
+
+notas = [ [5.6,7.2],[9.1,8,4], [5.8,4.6], [4.5,8.5] ] 
+
+alunoSelecionado = 2 
+
+nomeDoaluno = alunos[alunoSelecionado] 
+notasDoaluno = notas[alunoSelecionado]
+
+nota1 = notasDoaluno [0]
+nota2 = notasDoaluno [1]
+
+console.log(nomeDoaluno)
+console.log("A primeira nota foi:", nota1)
+console.log("A segunda nota foi:", nota2)
+console.log(nomedoAluno,"Teve média", (nota1 + nota2)/2)
