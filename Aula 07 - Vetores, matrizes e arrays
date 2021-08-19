@@ -16,4 +16,4 @@ nota2 = notasDoaluno [1]
 console.log(nomeDoaluno)
 console.log("A primeira nota foi:", nota1)
 console.log("A segunda nota foi:", nota2)
-console.log(nomedoAluno,"Teve média", (nota1 + nota2)/2)
+console.log(nomeDoaluno,"Teve média", (nota1 + nota2)/2)
