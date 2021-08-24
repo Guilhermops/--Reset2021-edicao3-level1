@@ -61,3 +61,4 @@ function margemBruta(receitaLiquidaVendas, custoProdutosVendidos) {
     lucroBruto = receitaLiquidaVendas - custoProdutosVendidos
     return (lucroBruto / receitaLiquidaVendas) * 100
 }
+margemBruta (10,5)
